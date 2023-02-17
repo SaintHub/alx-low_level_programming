@@ -1,6 +1,6 @@
-#include <stdio.h>
-int main(void)
+#include <sdio.h>
+int main(void);
 {
-printf("with a proper grammar, but the outcome is a piece of art,\n")
-return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (o);
 }
