@@ -7,7 +7,7 @@
  */
 int _abs(int t)
 {
-	if (t >= o)
+	if (t >= 0)
 		return (t);
 	else
 		return (-t);
